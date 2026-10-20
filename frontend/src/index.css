@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nav-link{
+  margin-left: 40px;
+}
+
+.open-account {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.open-account h1 {
+  margin-bottom: 12px;
+}
+
+.open-account p {
+  margin-bottom: 16px;
+  color: #666;
+}
+
